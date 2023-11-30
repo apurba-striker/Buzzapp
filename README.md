@@ -2,7 +2,7 @@
 
 App made using MERN Stack.
 
-![twitter-pic](twitter-pic.png)
+
 
 ## Features of App
 
@@ -15,9 +15,13 @@ App made using MERN Stack.
 - Like tweets and comments
 - Edit tweets and comments
 - Delete tweets and comments
-
-## Contribute
-
+## Used Technologies
+- React
+- Mongodb
+- expressjs
+- node
+- jwt
+  
 ### Prerequisites
 
 - node
