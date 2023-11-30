@@ -12,7 +12,7 @@ App made using MERN Stack.
 - Comment
 - Retweet
 - Follow user
-- - Like tweets and comments
+- Like tweets and comments
 - Edit tweets and comments
 - Delete tweets and comments
 
@@ -24,10 +24,10 @@ App made using MERN Stack.
 - npm
 - mongodb
 
-1. Fork this repository
-2. Clone this repository
-3. Install server dependencies
-4. Install mongodb Compass 
+
+1. Clone this repository
+2. Install server dependencies
+3. Install mongodb Compass 
 
 ```
 $ cd server
